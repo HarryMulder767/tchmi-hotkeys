@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# TcXaeShell Solution File, Format Version 11.00
+VisualStudioVersion = 15.0.33403.129
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FE7A1B72-C5B7-4D7C-BB7D-76384D4DE8E1}") = "tchmi-hotkeys", "tchmi-hotkeys\tchmi-hotkeys.hmiproj", "{BC6C3855-E4CE-44DC-85B7-24FE41EC1701}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|TwinCAT HMI = Debug|TwinCAT HMI
+		Release|TwinCAT HMI = Release|TwinCAT HMI
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC6C3855-E4CE-44DC-85B7-24FE41EC1701}.Debug|TwinCAT HMI.ActiveCfg = Debug|TwinCAT HMI
+		{BC6C3855-E4CE-44DC-85B7-24FE41EC1701}.Debug|TwinCAT HMI.Build.0 = Debug|TwinCAT HMI
+		{BC6C3855-E4CE-44DC-85B7-24FE41EC1701}.Release|TwinCAT HMI.ActiveCfg = Release|TwinCAT HMI
+		{BC6C3855-E4CE-44DC-85B7-24FE41EC1701}.Release|TwinCAT HMI.Build.0 = Release|TwinCAT HMI
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DAFE2C48-2E99-4936-A04A-7868C720C496}
+	EndGlobalSection
+EndGlobal
